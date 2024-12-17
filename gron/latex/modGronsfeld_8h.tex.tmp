@@ -1,0 +1,36 @@
+\hypertarget{modGronsfeld_8h}{}\doxysection{Файл mod\+Gronsfeld.\+h}
+\label{modGronsfeld_8h}\index{modGronsfeld.h@{modGronsfeld.h}}
+
+
+Заголовочный файл для модуля \mbox{\hyperlink{classmodAlphaCipher}{mod\+Alpha\+Cipher}}.  
+
+
+{\ttfamily \#include $<$string$>$}\newline
+{\ttfamily \#include $<$map$>$}\newline
+{\ttfamily \#include $<$vector$>$}\newline
+{\ttfamily \#include $<$stdexcept$>$}\newline
+{\ttfamily \#include $<$iostream$>$}\newline
+Граф включаемых заголовочных файлов для mod\+Gronsfeld.\+h\+:
+% FIG 0
+\doxysubsection*{Классы}
+\begin{DoxyCompactItemize}
+\item 
+class \mbox{\hyperlink{classmodAlphaCipher}{mod\+Alpha\+Cipher}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Заголовочный файл для модуля \mbox{\hyperlink{classmodAlphaCipher}{mod\+Alpha\+Cipher}}. 
+
+\begin{DoxyAuthor}{Автор}
+Родькин А.\+Е. 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Версия}
+1.\+0 
+\end{DoxyVersion}
+\begin{DoxyDate}{Дата}
+17.\+12.\+2024 
+\end{DoxyDate}
+\begin{DoxyCopyright}{Авторство}
+ИБСТ ПГУ 
+\end{DoxyCopyright}
